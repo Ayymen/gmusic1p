@@ -1,0 +1,6 @@
+owner=455061501934436373
+prefix=1
+game=By Aymen
+stayinchannel=true
+songinstatus=true
+token=NTY3NDgzNjEzMzc0MDU0NDIw.XLUMmA.g8-AQRkeGW1XrzGb5DjsfALJW3s
